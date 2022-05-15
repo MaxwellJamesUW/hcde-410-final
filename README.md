@@ -5,7 +5,7 @@ The proposed final project is an analysis of policy makers' and public survey re
 
 The proportion of policy makers who oppose abortion rights will be compared to the proportion of people in the general public who oppose abortion rights. The proportion of men and women who oppose abortion will also be compared for both the general public and people in policymaking positions.
 
-**Dataset Links**
+### Dataset Links
 
 Anti-Abortion Policymaking and Women's Representation
 
@@ -15,7 +15,7 @@ Safe, Legal, Rare... and Early: Gender and the Politics of Abortion:
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26223
 
-**Related Works**
+### Related Works
 
 Examining the Absence of a Gender Effect on Abortion Attitudes: Is There Really No Difference?:
 
