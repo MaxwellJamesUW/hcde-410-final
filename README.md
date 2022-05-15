@@ -7,7 +7,7 @@ The proportion of policy makers who oppose abortion rights will be compared to t
 
 ### Dataset Links
 
-Anti-Abortion Policymaking and Women's Representation
+Anti-Abortion Policymaking and Women's Representation:
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQXAOU
 
