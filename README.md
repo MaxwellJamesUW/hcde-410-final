@@ -7,13 +7,11 @@ The proportion of policy makers who oppose abortion rights will be compared to t
 
 **Dataset Links**
 
-Anti-Abortion Policymaking and Women's Representation
+Anti-Abortion Policymaking and Women's Representation: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQXAOU
+This dataset is public domain, allowing anyone to copy, modify, distribute, and perform work on it without permission: https://creativecommons.org/publicdomain/zero/1.0/
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQXAOU
-
-ABC News / Washington Post Poll, 2005:
-
-https://www.icpsr.umich.edu/web/ICPSR/studies/4326
+ABC News / Washington Post Poll, 2005: https://www.icpsr.umich.edu/web/ICPSR/studies/4326
+The dataset can be redistributed by authorized users, which includes students at member institutions. Because UW is an ICPSR member, I am allowed to use and share this dataset in this project.
 
 **Related Works**
 
